@@ -1,7 +1,11 @@
-### Hi, I'm currently doing
-### Master's degree in Industrial System Engineering from Dongguk University
+#### Hi, I'm currently doing
+#### Master's degree in Industrial System Engineering from Dongguk University
 
 #### Interest
+* Generative Model
+* Anomaly detection in industry field
+* Genetic algorithms
+* Machine learning for semiconductor
 
 <!--
 **andrew0411/andrew0411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
