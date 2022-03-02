@@ -1,4 +1,6 @@
-### Hi there 👋
+### Currently Doing Master's degree in Industrial System Engineering from Dongguk University
+
+#### Interest
 
 <!--
 **andrew0411/andrew0411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
