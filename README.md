@@ -1,5 +1,4 @@
-#### Hi, I'm currently doing
-#### Master's degree in Industrial System Engineering from Dongguk University
+Hi, I'm currently doing master's degree in Industrial System Engineering from Dongguk University
 
 #### Interest
 * Generative Model
