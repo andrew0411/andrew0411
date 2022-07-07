@@ -5,7 +5,7 @@ Hi, I'm currently doing master's degree in Industrial System Engineering from Do
 - Anomaly detection in industry field
 - Genetic algorithms
 - Machine learning for semiconductor
-- *Domain Generalization* 
+- **Domain Generalization**
 
 
 
