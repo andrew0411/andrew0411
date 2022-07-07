@@ -1,10 +1,11 @@
 Hi, I'm currently doing master's degree in Industrial System Engineering from Dongguk University
 
 ### Interest
-* Generative Model
-* Anomaly detection in industry field
-* Genetic algorithms
-* Machine learning for semiconductor
+- Generative Model
+- Anomaly detection in industry field
+- Genetic algorithms
+- Machine learning for semiconductor
+- *Domain Generalization* 
 
 
 
