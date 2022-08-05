@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fandrew0411%2Fandrew0411&count_bg=%232244DF&title_bg=%23D51111&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 Hi, I'm currently doing master's degree in Industrial System Engineering from Dongguk University
 
 ### Interest
@@ -25,7 +27,7 @@ Hi, I'm currently doing master's degree in Industrial System Engineering from Do
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fandrew0411%2Fandrew0411&count_bg=%232244DF&title_bg=%23D51111&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 <!--
 **andrew0411/andrew0411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
