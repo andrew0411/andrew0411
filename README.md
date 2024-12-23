@@ -25,7 +25,7 @@ Hi, I'm currently doing master's degree in Industrial System Engineering from Do
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=96andrew)](https://solved.ac/96andrew/)
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-gitblock.svg)
 
 
 
